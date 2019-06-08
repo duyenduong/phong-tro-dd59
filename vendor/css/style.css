@@ -1,0 +1,34 @@
+a {
+    color: #ff9900;
+}
+#top {
+    background-color: #333;
+    color: #ccc;
+}
+#top a {
+    color: #ccc;
+}
+#top input[type=text] {
+    background-color: black;
+    color: white;
+}
+#top button {
+    background-color: #ff9900;
+    color: white;
+}
+#main {
+    color: #ccc;
+}
+#footer {
+    background-color: #333;
+}
+
+.bb-1-gray {
+    border-bottom: 1px solid #ddd;
+}
+.bg-dark-gray {
+    background-color: #333;
+}
+.w-120 {
+    width: 120px;
+}
