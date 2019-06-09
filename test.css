@@ -1,0 +1,5 @@
+.progress-bar li{
+    list-style: none;
+    float: left;
+    width: 33.33%;
+}

@@ -81,7 +81,7 @@ a:hover{
 .counter{
    background-color: #f4bc27;
    background-size: cover;
-   height: 250px;
+   
 }
 .apartment{
    background-color: #f7f7f7;
@@ -139,10 +139,11 @@ a:hover{
    border-top: 3px solid #f4bc27;
    text-align: center;
 }
-.de-counter-box{
+.de-counter-box {
    text-align: center;
    text-transform: uppercase;
-   margin-top: 25%;
+   padding-bottom: 40px;
+   padding-top: 40px;
 }
 .de-counter{
    font-size: 40px;
